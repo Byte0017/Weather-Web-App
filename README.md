@@ -11,4 +11,6 @@ A simple weather application built using vanilla JavaScript that fetches and dis
   - Humidity level
   - Wind speed
 - Responsive design for mobile and desktop users
+- ![image](https://github.com/user-attachments/assets/c3cb661f-7f55-4a27-8f6c-b1066c8daead)
+
 
